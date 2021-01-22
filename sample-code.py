@@ -6,4 +6,6 @@ print( domain )
 usrList = []
 usrList.append(usrname)
 # let add some other code here
+# this comment is added locally.
+print ( domain + "@" + usrname )
 
