@@ -7,7 +7,7 @@ try to learn github and git
 
 |   | Sections                                               |      |       |       | Suitable Candidate |
 |   |                                                        | Aziz | Jesse | Jason | Hamid              |
-| - | ---- | --- | ---| --- | --- | --- |
+|-- | ---- | --- | ---| --- | --- | 
 | 1 | Data description and research question                 |      |       |       | all                |
 | 2 | Data preparation and cleaning                          |      |       |       | Aziz or hamid      |
 | 3 | Exploratory data analysis                              |      |       |       | Hamid  or Jesse    |
